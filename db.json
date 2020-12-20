@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Goanna lizard","category":"Violet"},
+{"id":2,"name":"Stork, woolly-necked","category":"Turquoise"},
+{"id":3,"name":"Radiated tortoise","category":"Puce"},
+{"id":4,"name":"Mississippi alligator","category":"Violet"},
+{"id":5,"name":"Capuchin, white-fronted","category":"Khaki"},
+{"id":6,"name":"Black-backed jackal","category":"Goldenrod"},
+{"id":7,"name":"Australian brush turkey","category":"Blue"},
+{"id":8,"name":"Australian sea lion","category":"Fuscia"},
+{"id":9,"name":"Antelope, sable","category":"Turquoise"},
+{"id":10,"name":"Dark-winged trumpeter","category":"Aquamarine"},
+{"id":11,"name":"Desert kangaroo rat","category":"Goldenrod"},
+{"id":12,"name":"Roadrunner, greater","category":"Green"},
+{"id":13,"name":"Cliffchat, mocking","category":"Mauv"},
+{"id":14,"name":"Small Indian mongoose","category":"Red"},
+{"id":15,"name":"Meerkat, red","category":"Purple"},
+{"id":16,"name":"Dragon, ornate rock","category":"Goldenrod"},
+{"id":17,"name":"Wolf spider","category":"Mauv"},
+{"id":18,"name":"Southern white-crowned shrike","category":"Pink"},
+{"id":19,"name":"Screamer, crested","category":"Indigo"},
+{"id":20,"name":"Curve-billed thrasher","category":"Puce"}
+]
+}
